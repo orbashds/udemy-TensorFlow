@@ -1,2 +1,2 @@
 # udemy-TensorFlow
-learning tenser flow 
+learning tensor flow 
